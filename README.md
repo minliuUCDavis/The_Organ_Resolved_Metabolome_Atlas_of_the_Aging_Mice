@@ -2,9 +2,9 @@
 
 
 
-!\[Screenshot\_1](images/Screenshot\_1.png)
+![Screenshot_1](images/Screenshot_1.png)
 
 
 
-!\[Screenshot\_2](images/Screenshot\_2.png)
+![Screenshot_2](images/Screenshot_2.png)
 
